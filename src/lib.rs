@@ -2,7 +2,7 @@ use std::marker::PhantomData;
 
 use ratatui::{
     prelude::*,
-    style::{Color, Style, Stylize},
+    style::{Color, Style},
     text::{Line, Span},
     widgets::{Tabs as RatatuiTabs, Widget},
 };
